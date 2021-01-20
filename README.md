@@ -10,15 +10,25 @@
 <a href="#swestphal-title">
   <img src="https://github-readme-stats.vercel.app/api?username=swestphal&show_icons=true&count_private=true&include_all_commits=true" alt="swestphal" align="right" />
 </a>
+<h3 align="left" id="swestphal-tech">Daily life...</h3>
 
 
 :pushpin: &nbsp;I'm just changing my stack to **MERN**
 
+:elephant: &nbsp;Good-bye to PHP after 6 years
+
 :mortar_board: &nbsp;Alway learning... currently **Cloud Development**
 
-:pencil2: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/simonewestphal/)
+:dog: &nbsp; When not coding.... go out with the dogs
 
-<h2 align="left" id="swestphal-tech">Favorite Tech</h2>
+<h3 align="left" id="swestphal-tech">How to contact</h3>
+
+:pencil2: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/simonewestphal/) or [Facebook](https://www.facebook.com/SimWestphal/)
+
+:globe_with_meridians: &nbsp;Visit my [website](https://swestphal.io/)
+
+
+<h3 align="left" id="swestphal-tech">Favorite Tech</h3>
 
 > Tools, languages, and other things that I like to work with.
 
