@@ -10,11 +10,11 @@
 <a href="#swestphal-title">
   <img src="https://github-readme-stats.vercel.app/api?username=swestphal&show_icons=true&count_private=true&include_all_commits=true" alt="swestphal" align="right" />
 </a>
-
--   :office: &nbsp;I'm just changing my stack from php to
+</br>
+:office: &nbsp;I'm just changing my stack from php to
     **JavaScript**
--   :seedling: &nbsp;I’m currently learning **Cloud Development**
--   :computer: &nbsp;Connect with me on **[LinkedIn]**
+</br>:seedling: &nbsp;I’m currently learning **Cloud Development**
+</br>:computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
@@ -72,5 +72,5 @@
 <!-- links -->
 
 [issues page]: https://github.com/swestphal/swestphal/issues 'swestphal/issues'
-
-[linkedin]: https://www.linkedin.com/in/simonewestphal/'Simone Westphal LinkedIn'
+[linkedin]: https://www.linkedin.com/in/simonewestphal/ 'Simone Westphal LinkedIn'
+# swestphal
