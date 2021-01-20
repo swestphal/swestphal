@@ -13,7 +13,8 @@
 </br>
 :office: &nbsp;I'm just changing my stack from php to **JavaScript**
 </br>:seedling: &nbsp;I’m currently learning **Cloud Development**
-</br>:computer: &nbsp;Connect with me on **[linkedin](https://www.linkedin.com/in/simonewestphal/)**
+</br>
+:computer: [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 <br>
 
 <h2 align="left" id="swestphal-tech">Favorite Tech</h2>
@@ -70,4 +71,4 @@
 <!-- links -->
 
 [issues page]: https://github.com/swestphal/swestphal/issues "swestphal/issues"
-[linkedin]: https://www.linkedin.com/in/simonewestphal/ "Simone Westphal LinkedIn"
+[linkedIn]: https://www.linkedin.com/in/simonewestphal "Simone Westphal LinkedIn"
