@@ -11,11 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=swestphal&show_icons=true&count_private=true&include_all_commits=true" alt="swestphal" align="right" />
 </a>
 </br>
-:office: &nbsp;I'm just changing my stack from php to
-    **JavaScript**
+:office: &nbsp;I'm just changing my stack from php to **JavaScript**
 </br>:seedling: &nbsp;I’m currently learning **Cloud Development**
-</br>:computer: &nbsp;Connect with me on **[LinkedIn]**
-
+</br>:computer: &nbsp;Connect with me on **[linkedin](https://www.linkedin.com/in/simonewestphal/)**
 <br>
 
 <h2 align="left" id="swestphal-tech">Favorite Tech</h2>
@@ -71,6 +69,5 @@
 
 <!-- links -->
 
-[issues page]: https://github.com/swestphal/swestphal/issues 'swestphal/issues'
-[linkedin]: https://www.linkedin.com/in/simonewestphal/ 'Simone Westphal LinkedIn'
-# swestphal
+[issues page]: https://github.com/swestphal/swestphal/issues "swestphal/issues"
+[linkedin]: https://www.linkedin.com/in/simonewestphal/ "Simone Westphal LinkedIn"
