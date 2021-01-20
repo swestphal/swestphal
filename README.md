@@ -7,9 +7,10 @@
   </a>
 </p>
 
-<a href="#swestphal-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=swestphal&show_icons=true&count_private=true&include_all_commits=truestars,commits,prs,issues,contribs&title_color=d82f70&icon_color=d82f70&text_color=61dafb&bg_color=ffffff" alt="swestphal" align="right" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swestphal&theme=cobalt)
+
+
+
 <h3 align="left" id="swestphal-tech">Daily life...</h3>
 
 
