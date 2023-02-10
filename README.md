@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swestphal&theme=cobalt)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swestphal&theme=cobalt)-->
 
 
 
