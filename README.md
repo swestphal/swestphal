@@ -54,9 +54,11 @@
       <br>Nodejs
     </td>
     <td align="center" width="96">
-      <a href="#swestphal-tech">
-        <img src="./img/express-original.svg" width="48" height="auto" alt="Express" />
-      </a>
+      <div style="height:48px">
+        <a href="#swestphal-tech">
+          <img src="./img/express-original.svg" width="48" height="auto" alt="Express" />
+        </a>
+      </div>
       <br>Express
     </td>
     <td align="center" width="96">
