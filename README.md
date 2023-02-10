@@ -14,7 +14,7 @@
 <h3 align="left" id="swestphal-tech">Daily life...</h3>
 
 
-:pushpin: &nbsp;Changed my stack to **MERN** and **JAM Stack**
+:pushpin: &nbsp;Changed my stack to **MERN** and **JAM**
 
 :elephant: &nbsp;Good-bye to PHP after 6 years
 
