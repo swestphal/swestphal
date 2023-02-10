@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a href="#swestphal-tech">
-        <img src="./img/express-original.svg" width="48" height="48" alt="Express" />
+        <img src="./img/express-original.svg" width="48" height="auto" alt="Express" />
       </a>
       <br>Express
     </td>
