@@ -55,9 +55,21 @@
     </td>
     <td align="center" width="96">
       <a href="#swestphal-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/express-original.svg" width="48" height="48" alt="Express" />
       </a>
-      <br>Sass
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#swestphal-tech">
+        <img src="./img/sanity-original.svg" width="48" height="48" alt="Sanity" />
+      </a>
+      <br>Sanity
+    </td>
+    <td align="center" width="96">
+      <a href="#swestphal-tech">
+        <img src="./img/gatsby-original.svg" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br>Gatsby
     </td>
     <td align="center" width="96">
       <a href="#swestphal-tech">
